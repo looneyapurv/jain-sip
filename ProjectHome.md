@@ -1,0 +1,13 @@
+**_News : [TelScale jSIP 6.1.2.GA is now available with multi year support !](http://telestax.com/2012/09/19/telscale-jsip-6-1-2-ga-is-now-available/)_**
+
+This project publishes the Reference Implementation, Technology Compatibility Kit, examples and tools for JAIN-SIP-1.2 (JSR-32 maintenance release) and an SDP library that conforms to the public release of JSR 141 (JAIN-SDP) interfaces. JAIN-SIP is a low level Java API speicification for SIP Signaling. The intended users of this project are SIP developers. It publishes a full implementation of the RFC 3261 Specification and as well as support for several SIP RFCs and IMS Extensions. The JAIN SIP RI, TCK and tools published by this project are in the public domain.
+
+**Mobicents also provides value add as sub-projects of JAIN SIP :**
+
+  * **[JAIN-SIP-HA](http://code.google.com/p/jain-sip/source/checkout?repo=ha)** : Provides extensions done by [TeleStax, Inc.](http://www.telestax.com) to provide high availability and fault tolerance through replication of various states of the stack. It supports Call Established Failover or Early Dialog Failover.
+
+  * **[JAIN-SIP-Ext](http://code.google.com/p/jain-sip/source/checkout?repo=ext)** provides extensions done by [TeleStax, Inc.](http://www.telestax.com) for some features that are not supported by the main jain sip stack, like DNS Support (RFC3263).
+
+  * **[JAIN-SIP-Javascript](http://code.google.com/p/jain-sip/source/checkout?repo=javascript)** provides a SIP JavaScript framework based on the JAIN SIP project contributed by [Orange Labs](http://www.orange.com/en/home), the research and innovation centre of France Telecom-Orange, for creating WebRTC Clients that communicates over SIP with containers supporting [SIP over Websockets](http://tools.ietf.org/html/draft-ietf-sipcore-sip-websocket-03) such as [Mobicents SIP Servlets](http://code.google.com/p/sipservlets/).
+
+_**Disclaimer: The default repository is a git-svn mirror of the project found at http://java.net/projects/jsip whose original repository is developed collaboratively by the Advanced Networking Technologies Division at the National Institute of Standards and Technology (NIST) - an agency of the United States Department of Commerce and by a community of individual and enterprise contributors. [TeleStax, Inc.](http://www.telestax.com) will perform some productization work, new features experimentation branches, etc for its [TelScale jSIP product](http://telestax.com/products/) that doesn't concern the community from the main repository hence this git repository.**_
